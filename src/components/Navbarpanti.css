@@ -1,0 +1,21 @@
+/* Navbar.css */
+.custom-navbar {
+    background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  
+  .custom-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4D96B6;
+  }
+  
+  .profile-dropdown .dropdown-toggle::after {
+    display: none; /* Hides the default dropdown icon */
+  }
+  
+  .rounded-circle {
+    margin-right: 8px;
+  }
+  
